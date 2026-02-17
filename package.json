@@ -1,0 +1,24 @@
+{
+  "name": "hive-scout",
+  "version": "0.1.0",
+  "description": "Advanced Hive blockchain curation engine with 2x Fast-Track multipliers and persistent edit-jail security.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node hivescoutv0.1.js"
+  },
+  "keywords": [
+    "hive",
+    "blockchain",
+    "curation",
+    "automation",
+    "bot"
+  ],
+  "author": "minecraft340-git",
+  "license": "MIT",
+  "dependencies": {
+    "@hiveio/dhive": "^1.2.8"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
