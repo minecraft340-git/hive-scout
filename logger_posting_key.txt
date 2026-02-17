@@ -1,0 +1,1 @@
+the posting key of the account to send reports in form of comments.
