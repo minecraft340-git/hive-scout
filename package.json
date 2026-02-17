@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@hiveio/dhive": "^1.3.2",
-    "readline-sync": "^1.4.10"
-  }
-}
